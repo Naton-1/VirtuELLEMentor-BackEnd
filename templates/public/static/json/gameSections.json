@@ -44,6 +44,20 @@
         ]
     },
     {
+        "anchor": "TalkWithTito",
+        "link": "/games/talkwithtito",
+        "external": false,
+        "title": "Talking With Tito",
+        "description": "Come chat with Tito and learn Spanish or Portugese as you discuss various topics.",
+        "altImage": "Talking With Tito Image",
+        "teams": [
+            {
+                "name": "Original Senior Design Team",
+                "members": ["John Fletcher Cabreara", "Julianne Tomlinson", "Kylee Weener", "Layne Mazur", "Logan Witte", "Tina Tran"]
+            }
+        ]
+    },
+    {
         "anchor": "Maze",
         "link": "/games/mazegame",
         "external": false,
